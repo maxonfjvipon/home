@@ -4,14 +4,13 @@ f78f570822c425e437c81dac8580b83da84bfb58	direct-version-comparison
 6812b3515528170eeef359c20c8257aeaf1e747b	fix-exists-without-comparison
 d58b385fe84a3d20d403772c1c5c9a9e449a8f91	fix/#188/correct-master-branch
 ce0933ea49b9905c5be8b471e587fe4cc30867fe	fix/#188/fix-pages-CI
-1a039ab2232d24b5ba2043979299da0dd024c075	gh-pages
-18ce7b192ea25264e51d0cdfb4e4b74b9f858f30	master
+5206117398247cd753bad6da02172bef41a65d56	gh-pages
+3d797dc88199abed287b4ed17fcaf86526e34690	master
 db0579b48dd717ac015b7af8515f8a56ee6fd521	renovate/actions-checkout-3.x
 4af81e7ed08f44b40873cb60a6639af2dd0f51ed	renovate/crazy-max-ghaction-import-gpg-6.x
 a47973f83ee709b1b79a7043029d23d8cc00e34b	renovate/eo.version
 edebc75ac1d75edbd4cb7c21666693a1ff28abd6	renovate/junit5-monorepo
 a56068ccfeb5b62c0de98e7f8ea503555e621165	renovate/ubuntu-22.x
-3b22dc87ee7c46d88fa29a5483fb68ad57c86b0c	update-
 4cf27ff7f3ec17891645d287cc2c2e56b3dd05e6	update-eo-0.29.6
 8ccc7b923db19f1dc6938597264eaccddf35371d	update-eo-0.30.0
 cb31e34e0cd69f95433c3a6569bfd51f255659d5	update-eo-0.31.0
