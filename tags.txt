@@ -4,8 +4,8 @@ f78f570822c425e437c81dac8580b83da84bfb58	direct-version-comparison
 6812b3515528170eeef359c20c8257aeaf1e747b	fix-exists-without-comparison
 d58b385fe84a3d20d403772c1c5c9a9e449a8f91	fix/#188/correct-master-branch
 ce0933ea49b9905c5be8b471e587fe4cc30867fe	fix/#188/fix-pages-CI
-01b1ae758d1146bb6ef28fb1dc40a5da4dd98822	gh-pages
-6c250a1c4acd8c70d74425d3ac30154228dbcfb6	master
+43c21a6ec7994ff5ff170dd18d83c57d87ea47ae	gh-pages
+9c2a6579a579749a6943ab93c763430271a0055c	master
 db0579b48dd717ac015b7af8515f8a56ee6fd521	renovate/actions-checkout-3.x
 4af81e7ed08f44b40873cb60a6639af2dd0f51ed	renovate/crazy-max-ghaction-import-gpg-6.x
 a47973f83ee709b1b79a7043029d23d8cc00e34b	renovate/eo.version
