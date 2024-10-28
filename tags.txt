@@ -4,8 +4,8 @@ f78f570822c425e437c81dac8580b83da84bfb58	direct-version-comparison
 6812b3515528170eeef359c20c8257aeaf1e747b	fix-exists-without-comparison
 d58b385fe84a3d20d403772c1c5c9a9e449a8f91	fix/#188/correct-master-branch
 ce0933ea49b9905c5be8b471e587fe4cc30867fe	fix/#188/fix-pages-CI
-ac9da3bf67ebca50ba85bbd9a4e284e11c99ae60	gh-pages
-29f9d41c426c281250a12ddfa6c84c5c71462163	master
+6a934fcfeb2adf7dfaf4f5435c6f3895c7a71864	gh-pages
+ac9bc35b3c01b5d56791e7e952e3b05af7eee465	master
 db0579b48dd717ac015b7af8515f8a56ee6fd521	renovate/actions-checkout-3.x
 4af81e7ed08f44b40873cb60a6639af2dd0f51ed	renovate/crazy-max-ghaction-import-gpg-6.x
 a47973f83ee709b1b79a7043029d23d8cc00e34b	renovate/eo.version
@@ -25,7 +25,7 @@ efdb1f87447be52e7605e6ec6faed61a76a41c55	update-eo-math-0.4.1
 3abdb9f71ba475aa7fa48c9745150cb34c615b8f	update-eo-to-0-32-0
 afc6c10c54e28efe01f2352d699c137c3cb0a68d	update-eo-to-0.36.0
 dea37d35011f0e9c2d2bb768838a9147d833efd8	update-eo-to-0.37.0
-2e3484b3fce0a1caa6e86bd79d99332313fbfaec	update-eo-to-0.40.0
+d0b79bba511c341221846805696a4e765c6f647a	update-eo-to-0.40.0
 f2de6c466752770ed7395961c9a5f86c8b539814	update-to-eo-0.39
 36ba8f5a0469c73d6510defdabc72a7bf655011a	versions-comparing
 5fe5ad8d21dbe418038fa4c86e096fb037f290a9	0.23.15
